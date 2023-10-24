@@ -15,7 +15,7 @@
 </h1>
 <br>
 <p align="center">
-  -Hi, I'm xingstar520
+  Hi 👋,I'm xing.
   <br>
   -🔬 I'm currently studying for a master's degree in Tianjin University Computer Engineering Department
   <br>
