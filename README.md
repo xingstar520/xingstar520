@@ -13,6 +13,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
+<h5 align="center">
+  <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
+  <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
+  <code><a href="http://geekswg.cnblogs.com/" title="Geekswg's Cnblogs"><img height="24" src="images/cnblogs.svg">  </a></code>
+  <code><a href="https://gitee.com/geekswg" title="Geekswg's Gitee"><img height="24" src="images/gitee2.png">  </a></code>
+  <code><a href="https://github.com/geekswg" title="Geekswg's GitHhub"><img height="24" src="images/github.svg">  </a></code>
+</h5>
 <br>
 <p align="center">
   Hi, I'm Geekswg
