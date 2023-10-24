@@ -5,17 +5,7 @@
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: 211543828@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_73340809?spm=1010.2135.3001.5343)
-<style>
-        .image-container {
-            display: flex;
-            justify-content: space-between;
-        }
-
-        .image-container img {
-            max-width: 48%; /* 控制图片的宽度，以便它们并排显示 */
-        }
-    </style>
-div class="image-container">
+<div>
         <img src="https://github-readme-stats.vercel.app/api?username=xingstar520&show_icons=true&theme=tokyonight" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingstar520" />
     </div>
