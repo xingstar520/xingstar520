@@ -1,4 +1,4 @@
-<div align="center">### Hi there 👋,I'm xing.</div>
+### Hi there 👋,I'm xing.
 
 <div align="center">- 🔭 I’m currently working on something cool.</div>
 <div align="center">- 🌱 I’m currently learning Everything I like.</div>
@@ -14,6 +14,6 @@
 
 <div align="center">### My Skill Set</div>
 
-<div align="center">![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</div>
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<div align="center">[![Security Status](https://www.murphysec.com/platform3/v31/badge/1716719127330684928.svg)](https://www.murphysec.com/console/report/1716719126802202624/1716719127330684928)</div>
+[![Security Status](https://www.murphysec.com/platform3/v31/badge/1716719127330684928.svg)](https://www.murphysec.com/console/report/1716719126802202624/1716719127330684928)
