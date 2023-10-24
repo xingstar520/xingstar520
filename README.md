@@ -6,6 +6,7 @@
 - 📫 How to reach me: 211543828@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_73340809?spm=1010.2135.3001.5343)
   
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=geekswg.geekswg">
  
 <h1 align="center">
@@ -13,7 +14,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
 <h5 align="center">
   <code><a href="http://wpa.qq.com/msgrd?v=3&uin=1101303970&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg">  </a></code>
   <code><a href="mailto: geekswg@qq.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
@@ -82,20 +82,20 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=xingstar520&theme=react&border=61dafb&hide_border=true" alt="geekswg" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=geekswg&theme=react&border=61dafb&hide_border=true" alt="geekswg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=xingstar520&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=geekswg&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingstar520&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekswg&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=xingstar520&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=geekswg&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <hr>
  
@@ -103,7 +103,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/geekswg/geekswg" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=geekswg&repo=geekswg&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/geekswg/xingstar520.github.io" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=geekswg&repo=geekswg.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/geekswg/geekswg.github.io" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=geekswg&repo=geekswg.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <!-- 
