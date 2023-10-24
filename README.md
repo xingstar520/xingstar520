@@ -1,4 +1,4 @@
-### Hi there 👋,I'm zhe.
+### Hi there 👋,I'm xing.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
@@ -6,7 +6,7 @@
 - 📫 How to reach me: 211543828@qq.com
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_73340809?spm=1010.2135.3001.5343)
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xing&show_icons=true&theme=tokyonight" /> </div>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
