@@ -17,19 +17,19 @@
 <p align="center">
   Hi 👋,I'm xing.
   <br>
-  -🔬 I'm currently studying for a master's degree in Tianjin University Computer Engineering Department
+  - 🔬 I'm currently studying for a master's degree in Tianjin University Computer Engineering Department
   <br>
-  -🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  - 🎓 I graduated from Black Sea Technical University Computer Engineering Department
   <br>
-  -🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  - 🎓 I graduated from Erzurum İbrahim Hakkı Science High School
   <br>
-  -💻 I love writing code and learn anythings about it
+  - 💻 I love writing code and learn anythings about it
   <br>
-  -📚 I’m currently learning how to build E-Commerce Website with Django
+  - 📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  -💬 Ask me anything about from <a href="https://github.com/geekswg/geekswg/issues" title="Issues">Here</a>
+  - 📫 How to reach me: 211543828@qq.com
   <br>
-  -📫 How to reach me: <a href="mailto: geekswg@qq.com">geekswg@qq.com</a>
+  - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_73340809?spm=1010.2135.3001.5343)
 </p>
  
 <h2 align="center">⚡ Stats ⚡</h2>
