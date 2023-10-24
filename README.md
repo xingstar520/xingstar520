@@ -14,3 +14,4 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+[![Security Status](https://www.murphysec.com/platform3/v31/badge/1716719127330684928.svg)](https://www.murphysec.com/console/report/1716719126802202624/1716719127330684928)
