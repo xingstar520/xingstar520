@@ -10,7 +10,7 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingstar520" /> </div>
 
-<div align="center">You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:</div>
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 <div align="center">### My Skill Set</div>
 
