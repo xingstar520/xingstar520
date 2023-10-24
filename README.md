@@ -29,7 +29,7 @@
   <br>
   - 📫 How to reach me: 211543828@qq.com
   <br>
-  - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_73340809?spm=1010.2135.3001.5343)
+  - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_73340809?spm=1000.2115.3001.5343)
 </p>
  
 <h2 align="center">⚡ Stats ⚡</h2>
