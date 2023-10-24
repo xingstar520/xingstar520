@@ -8,6 +8,8 @@
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=xingstar520&show_icons=true&theme=tokyonight" /> </div>
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingstar520" /> </div>
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
