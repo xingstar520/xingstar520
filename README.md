@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: 2115438238@qq.com
-- 📝 My Personal Blog: [here](https://xingstar.top)
+- 📝 My Personal Blog: [startwt](https://xingstar.top)
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/qq_73340809?spm=1010.2135.3001.5343)
 
 
