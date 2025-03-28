@@ -37,9 +37,9 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xingstar520/xingstar520/assets/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xingstar520/xingstar520/assets/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/xingstar520/xingstar520/assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xingstar520/xingstar520/blob/main/assets/github-contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset=https://github.com/xingstar520/xingstar520/blob/main/assets/github-contribution-snake.svg" />
+    <img alt="github-snake" src="https://github.com/xingstar520/xingstar520/blob/main/assets/github-contribution-snake-dark.svg" />
   </picture>
 </div>
 ---
