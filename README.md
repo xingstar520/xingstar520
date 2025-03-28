@@ -1,21 +1,47 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+to+my+GitHub!&center=true&size=30&color=61DAFB">
-  </a>
-</h1>
+<div align="center">
+    <div>
+          <h1 align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+to+my+GitHub!&center=true&size=30&color=61DAFB">
+      </a>
+    </h1>
+    <!-- knock code pictures 敲代码的图片 -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+      <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    </picture>
+    </div>
 
-<p align="center">
-  <a href="https://tjqaq.com">
-    <img src="https://img.shields.io/badge/🌐-Personal%20Blog-61DAFB?style=flat-square">
-  </a>
-  <a href="https://xingstar.blog.csdn.net">
-    <img src="https://img.shields.io/badge/📚-CSDN%20Blog-FF6B6B?style=flat-square">
-  </a>
-  <a href="mailto:2115438238@qq.com">
-    <img src="https://img.shields.io/badge/📧-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white">
-  </a>
-</p>
+  <div>
+  <p align="center">
+    <a href="https://tjqaq.com">
+      <img src="https://img.shields.io/badge/🌐-Personal%20Blog-61DAFB?style=flat-square">
+    </a>
+    <a href="https://xingstar.blog.csdn.net">
+      <img src="https://img.shields.io/badge/📚-CSDN%20Blog-FF6B6B?style=flat-square">
+    </a>
+    <a href="mailto:2115438238@qq.com">
+      <img src="https://img.shields.io/badge/📧-Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white">
+    </a>
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@xingstar520"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=xingstar520&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </p>
+  </div>
+</div>
 
+---
+
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 ---
 
 <p align="center">
@@ -75,5 +101,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xingstar520&color=blue&style=flat-square" alt="Profile Views"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xingstar520.profileviews-badge" alt="Visitor Count"/>
 </p>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+<h4 align="center">
+  <a href="https://github.com/xingstar520?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
