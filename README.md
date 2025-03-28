@@ -89,11 +89,17 @@
 ### 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/xingstar520/daijia-parent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingstar520&repo=E-Commerce-Django&theme=react&hide_border=true"/>
+  <a href="https://github.com/xingstar520/Friend-Circle-Lite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingstar520&repo=Friend-Circle-Lite&theme=react"/>
   </a>
-  <a href="https://github.com/xingstar520/sky-take-out1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingstar520&repo=AI-Learning-System&theme=react&hide_border=true"/>
+  <a href="https://github.com/xingstar520/xingstar520.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingstar520&repo=xingstar520.github.io&theme=react"/>
+  </a>
+  <a href="https://github.com/xingstar520/JavaGuide">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingstar520&repo=JavaGuide&theme=react"/>
+  </a>
+  <a href="https://github.com/xingstar520/TJU-CourseSharing">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xingstar520&repo=TJU-CourseSharing&theme=react"/>
   </a>
 </div>
 
