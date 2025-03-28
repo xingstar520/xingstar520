@@ -11,15 +11,15 @@ on:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    permissions:
+      contents: write  # This is crucial for pushing changes
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Add this line
-          persist-credentials: true  # Add this line
-        
+          persist-credentials: true  # This keeps the auth token for later pushes
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -27,11 +27,15 @@ jobs:
           outputs: |
             assets/github-contribution-snake.svg
             assets/github-contribution-snake-dark.svg?palette=github-dark
-          
-      - name: Commit and Push Results
+
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "xingstar"
           git config --global user.email "2115438238@qq.com"
           git add assets/
-          git commit -m "Update contribution snake animation [skip ci]"
-          git push
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update contribution snake animation [skip ci]"
+            git push
+          fi
