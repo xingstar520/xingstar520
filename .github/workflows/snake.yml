@@ -1,14 +1,9 @@
 name: Generate Contribution Snake Animation
 
 on:
-  # Run daily at 2 AM UTC
   schedule:
     - cron: "0 2 * * *"
-  
-  # Allow manual triggering
   workflow_dispatch:
-  
-  # Run on pushes to main branch
   push:
     branches:
       - main
@@ -16,15 +11,17 @@ on:
 jobs:
   generate-snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 15  # Increased timeout for reliability
+    timeout-minutes: 15
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Add this line
+          persist-credentials: true  # Add this line
         
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
-        id: generate-snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
