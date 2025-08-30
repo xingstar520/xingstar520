@@ -15,7 +15,7 @@
 
   <div>
   <p align="center">
-    <a href="https://tjqaq.com">
+    <a href="https://xingstar.com">
       <img src="https://img.shields.io/badge/🌐-Personal%20Blog-61DAFB?style=flat-square">
     </a>
     <a href="https://xingstar.blog.csdn.net">
